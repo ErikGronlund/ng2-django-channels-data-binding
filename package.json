@@ -31,11 +31,10 @@
     "ng2-django-channels-demultiplexing": "0.1.0"
   },
   "devDependencies": {
-    "@angular/core": "2.x",
-    "@types/core-js": "^0.9.35",
-    "ng2-django-channels-demultiplexing": "0.1.0",
-    "rxjs": "5.x",
-    "typescript": "2.x",
-    "zone.js": ">=0.6.0"
+    "@angular/core": "^4.0.3",
+    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#da86908921c5a6dd1d61b730c2e23694eeb05250",
+    "rxjs": "^5.0.1",
+    "typescript": "2.3.4",
+    "zone.js": "^0.8.9"
   }
 }
