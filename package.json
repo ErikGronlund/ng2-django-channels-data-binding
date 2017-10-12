@@ -28,11 +28,11 @@
   "homepage": "https://github.com/devmapal/ng2-django-channels-data-binding#readme",
   "peerDependencies": {
     "@angular/core": "^4.0.3",
-    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#da86908921c5a6dd1d61b730c2e23694eeb05250"
+    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#62b6a26e80a2c5fa876421442fa809283fd5729f"
   },
   "devDependencies": {
     "@angular/core": "^4.0.3",
-    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#da86908921c5a6dd1d61b730c2e23694eeb05250",
+    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#62b6a26e80a2c5fa876421442fa809283fd5729f",
     "rxjs": "^5.0.1",
     "typescript": "2.3.4",
     "zone.js": "^0.8.9"
