@@ -1,6 +1,6 @@
 {
   "name": "ng2-django-channels-data-binding",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "Angular 2 library for interacting with a Django Channels data binding backend.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devmapal/ng2-django-channels-data-binding.git"
+    "url": "git+https://github.com/ErikGronlund/ng2-django-channels-data-binding.git"
   },
   "keywords": [
     "angular",
@@ -23,16 +23,16 @@
   "author": "Fabian Schaffert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devmapal/ng2-django-channels-data-binding/issues"
+    "url": "https://github.com/ErikGronlund/ng2-django-channels-data-binding/issues"
   },
-  "homepage": "https://github.com/devmapal/ng2-django-channels-data-binding#readme",
+  "homepage": "https://github.com/ErikGronlund/ng2-django-channels-data-binding#readme",
   "peerDependencies": {
     "@angular/core": "^4.0.3",
-    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#1.0.0"
+    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#1.0.1"
   },
   "devDependencies": {
     "@angular/core": "^4.0.3",
-    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#1.0.0",
+    "ng2-django-channels-demultiplexing": "git://github.com/ErikGronlund/ng2-django-channels-demultiplexing.git#1.0.1",
     "rxjs": "^5.0.1",
     "typescript": "2.3.4",
     "zone.js": "^0.8.9"
